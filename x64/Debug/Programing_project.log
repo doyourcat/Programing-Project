@@ -1,0 +1,4 @@
+﻿  secure_module.c
+C:\project\Programing_project\Programing_project\secure_module.c(23,2): warning C4133: 'return': 'Secure_Pointer *'과(와) 'SecurePointer *' 사이의 형식이 호환되지 않습니다.
+C:\project\Programing_project\Programing_project\secure_module.c(54,42): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  Programing_project.vcxproj -> C:\project\Programing_project\x64\Debug\Programing_project.exe
